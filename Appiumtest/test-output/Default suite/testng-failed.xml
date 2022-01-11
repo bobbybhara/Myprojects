@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="YvProjectWeb.YvProjectWeb">
+        <methods>
+          <include name="TC_021"/>
+          <include name="beforeSuite"/>
+          <include name="TC_016"/>
+          <include name="TC_038"/>
+          <include name="TC_013"/>
+          <include name="TC_035"/>
+          <include name="TC_018"/>
+          <include name="TC_015"/>
+          <include name="TC_037"/>
+          <include name="TC_012"/>
+          <include name="TC_034"/>
+          <include name="TC_020"/>
+          <include name="TC_014"/>
+          <include name="TC_036"/>
+          <include name="TC_011"/>
+          <include name="TC_033"/>
+          <include name="TC_017"/>
+          <include name="afterSuite"/>
+          <include name="TC_019"/>
+          <include name="TC_030"/>
+          <include name="TC_010"/>
+          <include name="TC_032"/>
+          <include name="TC_005"/>
+          <include name="TC_027"/>
+          <include name="TC_002"/>
+          <include name="TC_024"/>
+          <include name="TC_007"/>
+          <include name="TC_029"/>
+          <include name="TC_004"/>
+          <include name="TC_026"/>
+          <include name="TC_001"/>
+          <include name="TC_023"/>
+          <include name="TC_031"/>
+          <include name="TC_003"/>
+          <include name="TC_025"/>
+          <include name="TC_022"/>
+          <include name="TC_009"/>
+          <include name="TC_006"/>
+          <include name="TC_028"/>
+          <include name="TC_008"/>
+        </methods>
+      </class> <!-- YvProjectWeb.YvProjectWeb -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

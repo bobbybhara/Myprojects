@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-11T08:12:23Z" name="Default suite" finished-at="2022-01-11T08:12:28Z" duration-ms="4856">
+    <groups>
+    </groups>
+    <test started-at="2022-01-11T08:12:23Z" name="Default test" finished-at="2022-01-11T08:12:28Z" duration-ms="4856">
+      <class name="Apitesting.Api.APItesting">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:23Z" name="beforeSuite" finished-at="2022-01-11T08:12:23Z" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="TC_001()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:23Z" name="TC_001" finished-at="2022-01-11T08:12:25Z" duration-ms="2405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+        <test-method signature="TC_002()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:25Z" name="TC_002" finished-at="2022-01-11T08:12:25Z" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002 -->
+        <test-method signature="TC_003()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:25Z" name="TC_003" finished-at="2022-01-11T08:12:26Z" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003 -->
+        <test-method signature="TC_004()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:26Z" name="TC_004" finished-at="2022-01-11T08:12:26Z" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004 -->
+        <test-method signature="TC_005()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:26Z" name="TC_005" finished-at="2022-01-11T08:12:26Z" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_005 -->
+        <test-method signature="TC_006()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:26Z" name="TC_006" finished-at="2022-01-11T08:12:26Z" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_006 -->
+        <test-method signature="TC_007()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:26Z" name="TC_007" finished-at="2022-01-11T08:12:27Z" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_007 -->
+        <test-method signature="TC_008()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:27Z" name="TC_008" finished-at="2022-01-11T08:12:27Z" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_008 -->
+        <test-method signature="TC_009()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:27Z" name="TC_009" finished-at="2022-01-11T08:12:27Z" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_009 -->
+        <test-method signature="TC_010()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:27Z" name="TC_010" finished-at="2022-01-11T08:12:27Z" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_010 -->
+        <test-method signature="TC_011()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:27Z" name="TC_011" finished-at="2022-01-11T08:12:28Z" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_011 -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:Apitesting.Api.APItesting@7bba5817]" started-at="2022-01-11T08:12:28Z" name="afterSuite" finished-at="2022-01-11T08:12:28Z" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Apitesting.Api.APItesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
